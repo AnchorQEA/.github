@@ -1,3 +1,3 @@
 # .github
 
-Public repository for community health files. 
+Public repository for community health files. And other cool things. 
